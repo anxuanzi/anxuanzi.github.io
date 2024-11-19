@@ -15,10 +15,12 @@ custom_js:
 
 We explore the licenses dataset using two interactive visualizations created with Altair. The dataset provides information about various types of licenses, including their statuses and any disciplinary actions taken. Our goal is to help users understand the distribution of licenses by type and status and to explore the timeline of disciplinary actions. Both visualizations are interactive, with one offering a unique selection feature to highlight specific licenses.
 
-## The Data
-
-<div class="left" style="display: block;">
+<div class="left">
 {% include elements/button.html link="/assets/hw6/licenses_fall2022.csv" text="Download Data CSV" %}
+</div>
+
+<div class="right">
+{% include elements/button.html link="https://github.com/anxuanzi/anxuanzi.github.io/blob/main/python_notebooks/hw6.ipynb" text="Download Data CSV" %}
 </div>
 <br/>
 
